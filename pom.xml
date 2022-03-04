@@ -75,12 +75,11 @@
                     <version>1.17.0</version>
                     <configuration>
                         <gitFlowConfig>
-                            <productionBranch>master</productionBranch>
+                            <productionBranch>main</productionBranch>
                             <developmentBranch>develop</developmentBranch>
                             <featureBranchPrefix>feature/</featureBranchPrefix>
                             <releaseBranchPrefix>release/</releaseBranchPrefix>
                             <hotfixBranchPrefix>hotfix/</hotfixBranchPrefix>
-                            <supportBranchPrefix>support/</supportBranchPrefix>
                             <versionTagPrefix></versionTagPrefix>
                             <origin>origin</origin>
                         </gitFlowConfig>
