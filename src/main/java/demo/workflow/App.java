@@ -5,17 +5,8 @@ package demo.workflow;
  */
 public class App {
     public static void main(String[] args) {
-        System.out.println("Hello World!");
-        System.out.println("add new line");
-        System.out.println("chancfes test2");
+        System.out.println("Hello World! test1");
 
-        System.out.println("3er new line update");
-        System.out.println("4ta new line update");
-
-        System.out.println("changes hotfix");
-        System.out.println("changes test2");
-        System.out.println("Test1");
-        System.out.println("Test1.0");
 
 
 
