@@ -6,7 +6,7 @@
 
     <groupId>demo.workflow</groupId>
     <artifactId>demo-start</artifactId>
-    <version>1.3-SNAPSHOT</version>
+    <version>1.3-test1-SNAPSHOT</version>
 
     <name>demo-start</name>
     <!-- FIXME change it to the project's website -->
