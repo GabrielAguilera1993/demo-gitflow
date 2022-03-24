@@ -77,7 +77,7 @@
                         <gitFlowConfig>
                             <productionBranch>main</productionBranch>
                             <developmentBranch>develop</developmentBranch>
-                            <featureBranchPrefix>test/</featureBranchPrefix>
+                            <featureBranchPrefix> </featureBranchPrefix>
                             <hotfixBranchPrefix>hotfix/</hotfixBranchPrefix>
                             <releaseBranchPrefix>test/</releaseBranchPrefix>
                             <origin>origin</origin>
