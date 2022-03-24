@@ -79,6 +79,7 @@
                             <developmentBranch>develop</developmentBranch>
                             <featureBranchPrefix></featureBranchPrefix>
                             <hotfixBranchPrefix>hotfix/</hotfixBranchPrefix>
+                            <releaseBranchPrefix></releaseBranchPrefix>
                             <origin>origin</origin>
                         </gitFlowConfig>
                     </configuration>
